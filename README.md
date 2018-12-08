@@ -20,4 +20,4 @@ or
 python3.6 explodeVideos.py
 ```
 respectively to your python version.
-The rpogram will save the images in a created folder called 'cat'.
+The program will save the images in a created folder called 'cat'.
